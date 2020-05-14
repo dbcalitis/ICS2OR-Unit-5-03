@@ -15,4 +15,5 @@ let age;
         else {
          document.getElementById("response").textContent = "You are too young for these things...";
         }
+        alert("Thank you for verifying your age!")
       }
