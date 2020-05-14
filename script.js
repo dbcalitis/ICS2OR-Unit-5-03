@@ -10,7 +10,7 @@ let age;
           document.getElementById("response").textContent = "You can watch a PG-13 movie alone.";
         }
         else if (age >= 5) {
-          document.getElementById("response").textContent = "You can watcch a G or PG movie alone.";
+          document.getElementById("response").textContent = "You can watch a G or PG movie alone.";
         }
         else {
          document.getElementById("response").textContent = "You are too young for these things...";
